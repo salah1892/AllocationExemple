@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzVOm7/HZz0=",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\C#\\Heuristique-Meta-Heuristique\\SmartPlanif.Allocation\\src\\SmartPlanif.Application\\SmartPlanif.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

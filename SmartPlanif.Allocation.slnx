@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartPlanif.Application/SmartPlanif.Application.csproj" />
+    <Project Path="src/SmartPlanif.Domain/SmartPlanif.Domain.csproj" />
+    <Project Path="src/SmartPlanif.Host/SmartPlanif.Host.csproj" />
+    <Project Path="src/SmartPlanif.Infrastructure/SmartPlanif.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmartPlanif.Domain.Tests/SmartPlanif.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

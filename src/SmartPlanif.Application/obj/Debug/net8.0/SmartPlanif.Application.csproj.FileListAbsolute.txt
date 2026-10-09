@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\bin\Debug\net8.0\SmartPlanif.Application.deps.json
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\bin\Debug\net8.0\SmartPlanif.Application.dll
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\bin\Debug\net8.0\SmartPlanif.Application.pdb
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\bin\Debug\net8.0\SmartPlanif.Domain.dll
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\bin\Debug\net8.0\SmartPlanif.Domain.pdb
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.AssemblyInfo.cs
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPla.14CBA6C0.Up2Date
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.dll
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\refint\SmartPlanif.Application.dll
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\SmartPlanif.Application.pdb
+D:\WorkSpace\C#\Heuristique-Meta-Heuristique\SmartPlanif.Allocation\src\SmartPlanif.Application\obj\Debug\net8.0\ref\SmartPlanif.Application.dll
